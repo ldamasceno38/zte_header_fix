@@ -1,4 +1,5 @@
 # ZTE Header Fix
+Compares Header bytes from Original Bin and Re-encoded Bin
 
 Fixes the following error:
 - Uploading .bin files passes integrity check but NO CHANGES ARE MADE
